@@ -1,6 +1,6 @@
 <div align=center>
 
-![](adderall.png)
+![](https://github.com/adderallwiki/.github/blob/c4b2a73c21fdde6250194ed6f3b630a7be81db4a/profile/adderall.png)
 
 # welcome to adderall.wiki!
 
