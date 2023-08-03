@@ -1,4 +1,4 @@
-![](https://www.simpleimageresizer.com/_uploads/photos/a673c696/adderall2_50.png)
+![](adderall2_50.png)
 # welcome to adderall.wiki!
 
 a game modding client that is revolutionizing the community.
